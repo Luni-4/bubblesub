@@ -1,6 +1,4 @@
-<p align='center'>
-    <img src='bubblesub/data/bubblesub-textured.png' alt='logo' width='50%'/>
-</p>
+## Windows Build
 
 <p align='center'>
     Simple extensible ASS subtitle editor for Linux
